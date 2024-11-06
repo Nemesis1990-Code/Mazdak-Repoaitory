@@ -95,7 +95,7 @@ while True:
            
             print('Can not divide by zero!')
 
-            break
+            continue
 
 
     print(f'The answer is: {num1} {input_operator} {num2} = {result} ')
