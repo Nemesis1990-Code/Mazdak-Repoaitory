@@ -31,7 +31,7 @@ print("")
 
 while True:
 
-    difficulty = input().lower()
+    difficulty = input()
     print("")
 
     if difficulty in ["1", "2", "3"]:
